@@ -1,7 +1,8 @@
 # IBM-Project-49226-1660816945
 # AI-powered Nutrition Analyzer for Fitness Enthusiasts
-/*Domain: Artificial Intelligence/*
+## *Domain: Artificial Intelligence *
 Team ID: PNT2022TMID50938
+
 Team Lead: Maniraj
 
 Team:Arunachalam, Aswin, Arun raj, Immanuel augustin
